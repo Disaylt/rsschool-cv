@@ -1,1 +1,1 @@
-# rsschool-cv
+https://disaylt.github.io/rsschool-cv/cv
