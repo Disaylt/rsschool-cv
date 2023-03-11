@@ -16,3 +16,9 @@
 * ProAmazon - C# developer - 8 мес.
 * ProductLab - C# developer - 1 год. 3 мес.
 * MP-SNAKE - Full-stack ASP.NET Developer - текущее место работы
+
+## Образование
+#### Неполное высшее
+### Учебные заведения
+* BNTU (2014 - 2019)
+* ItAcademy (2022 - 2023)
